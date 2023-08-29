@@ -5,3 +5,6 @@ The following project it's a weather dashboard where you can address a city in t
 El siguiente proyecto es un panel del clima en el que podrás ingresar una ciudad en el buscador y aparecerá su clima en tiempo real, un pronóstico de los próximos 5 días y un gráfico de las temperaturas registradas.
 
 Pagina de prueba: https://fgarciarey.github.io/DashboardProyecto3/
+
+Proyecto realizado en equipo. Lautaro Huichalaf - Felipe García-Rey
+Bootcam UDD - Fullstack Web Developer - 2023
